@@ -306,6 +306,7 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 SQL tutorials and database design principles.
 
 - [SQLZoo - SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorial.
+- [Skillancy SQL Compiler](https://skillancy.in/tools/sql-compiler) - Free PostgreSQL playground that runs in the browser, no signup.
 - [SQL Bolt - Learn SQL](https://sqlbolt.com/) - Learn SQL through interactive lessons.
 - [SQL Tutorial](https://www.sqltutorial.org/) - Comprehensive SQL tutorial resource.
 - [SQL Tutorial by W3Schools.](https://www.w3schools.com/sql/default.asp) - Comprehensive SQL tutorial.
